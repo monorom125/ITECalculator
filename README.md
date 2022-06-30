@@ -14,4 +14,4 @@ ITECalculator has consist of functions:
 
 # code Structure
 - Oop.
-_ MVC pattern.
+- MVC pattern.
